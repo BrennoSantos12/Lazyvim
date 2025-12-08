@@ -6,3 +6,7 @@ debug
 foo.*
 *.log
 data
+# Pastas e arquivos criados automaticamente
+lazy-lock.json
+plugin
+spell
