@@ -1,8 +1,10 @@
 {
   "extras": [
+    "lazyvim.plugins.extras.ai.claudecode",
     "lazyvim.plugins.extras.lang.tailwind",
     "lazyvim.plugins.extras.lang.typescript",
-    "lazyvim.plugins.extras.lang.vue"
+    "lazyvim.plugins.extras.lang.vue",
+    "lazyvim.plugins.extras.util.octo"
   ],
   "install_version": 8,
   "news": {
